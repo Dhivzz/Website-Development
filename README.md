@@ -45,11 +45,6 @@ Huge IT Solutions is a company focused on providing top-notch IT services. This 
    open index.html
    ```
 
-4. **Setting up the backend:**
-
-   - Ensure you have PHP and MySQL installed on your server.
-   - Import the `database.sql` file to your MySQL database.
-   - Configure the `config.php` file with your database credentials.
 
 ## Usage
 
